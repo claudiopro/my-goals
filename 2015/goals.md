@@ -14,7 +14,7 @@
 - [ ] Learning Angular 2
 - [ ] Mastering Sass
 - [ ] Complete [NodeSchool.io](http://nodeschool.io) challenges
-- [ ] Learn to use Jekyll
+- [ ] Learn to use [Jekyll](http://jekyllrb.com/)
 
 ## Package Managers
 - [x] Mastering NPM
