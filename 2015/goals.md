@@ -8,30 +8,32 @@
 
 ## Frameworks, Languages
 - [ ] Learn RxJS
-- [ ] Mastering React
-- [ ] Learning TypeScript
-- [ ] Mastering Angular 1.x
-- [ ] Learning Angular 2
-- [ ] Mastering Sass
+- [ ] Master React
+- [ ] Learn TypeScript
+- [ ] Master Angular 1.x
+- [ ] Learn Angular 2
+- [ ] Master Sass
 - [ ] Complete [NodeSchool.io](http://nodeschool.io) challenges
 - [ ] Learn to use [Jekyll](http://jekyllrb.com/)
 
 ## Package Managers
-- [x] Mastering NPM
+- [x] Master NPM
 
 ## Workflow
-- [ ] Mastering [Gulp](http://gulpjs.com/)
+- [ ] Master [Gulp](http://gulpjs.com/)
 - [ ] First steps with [Grunt](http://gruntjs.com/)
 - [x] First steps with [Webpack](https://webpack.github.io/)
-- [ ] Mastering [Webpack](https://webpack.github.io/)
+- [ ] Master [Webpack](https://webpack.github.io/)
 
 ## Open Source
-- [x] Writing my first NPM module ([learn-sass](https://www.npmjs.com/package/learn-sass), yay!)
+- [x] Writ my first NPM module ([learn-sass](https://www.npmjs.com/package/learn-sass), yay!)
 - [x] Translate NodeSchool.io to Italian
 - [x] Translate React documentation to Italian
 
 ## Persona
-- [ ] Refreshing [emeraldion.it](http://www.emeraldion.it)
+- [ ] Refresh [emeraldion.it](http://www.emeraldion.it)
+- [ ] Write at least three technical articles
+- [ ] Write at least three blog posts
 
 ## Conferences, Meetups, Community
 - [ ] Deliver a talk at a meetup

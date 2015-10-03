@@ -1,7 +1,12 @@
 # my-goals
 My goals expressed as a list of todos. For better accountability, and as a reminder to myself. I tend to be very forgetful and a list of todos helps. Also I got this mindset from my IBM years :sweat_smile:.
 
-Have a question? [Ask me anything!](https://github.com/claudiopro/ama/issues/new)
+Have a question? [Ask me anything!](https://github.com/claudiopro/ama/issues/new) Would you like to suggest a goal? [Go ahead!](https://github.com/claudiopro/my-goals/issues/new) :smile:
+
+# Goals
+
+* [2015](./2015/goals.md)
+* [2016](./2016/goals.md)
 
 # License
 
