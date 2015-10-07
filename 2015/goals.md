@@ -26,12 +26,12 @@
 - [ ] Master [Webpack](https://webpack.github.io/)
 
 ## Open Source
-- [x] Writ my first NPM module ([learn-sass](https://www.npmjs.com/package/learn-sass), yay!)
+- [x] Write my first NPM module ([learn-sass](https://www.npmjs.com/package/learn-sass), yay!)
 - [x] Translate NodeSchool.io to Italian
 - [x] Translate React documentation to Italian
 
 ## Persona
-- [ ] Refresh [emeraldion.it](http://www.emeraldion.it)
+- [x] Refresh [emeraldion.it](http://www.emeraldion.it)
 - [ ] Write at least three technical articles
 - [ ] Write at least three blog posts
 
@@ -40,5 +40,5 @@
 
 ## Career
 - [ ] Update LinkedIn profile
-- [ ] Update resume
+- [x] Update resume
 - [ ] Find a new job
