@@ -1,5 +1,5 @@
 # my-goals
-My goals expressed as a list of todos. For better accountability, and as a reminder to myself. I tend to be very forgetful and a list of todos helps. Also I got this mindset from my IBM years :sweat_smile:.
+My goals expressed as a list of todos. For better accountability, and as a reminder to myself. I tend to be very forgetful and a list of todos helps. Also I got this mindset from my IBM years :sweat_smile:. Inspired by `personal-goals` by the awesome [Una Kravets](https://github.com/una/personal-goals)
 
 Have a question? [Ask me anything!](https://github.com/claudiopro/ama/issues/new) Would you like to suggest a goal? [Go ahead!](https://github.com/claudiopro/my-goals/issues/new) :smile:
 
