@@ -2,19 +2,19 @@
 
 ## Containers
 - [x] First steps with Docker
-- [ ] First steps with Heroku
+- [x] First steps with Heroku
 - [ ] First steps with Kubernetes
 - [ ] First steps with Bluemix
 
 ## Frameworks, Languages
 - [ ] Learn RxJS
-- [ ] Master React
+- [x] Master React
 - [ ] Learn TypeScript
 - [ ] Master Angular 1.x
 - [ ] Learn Angular 2
 - [ ] Master Sass
 - [ ] Complete [NodeSchool.io](http://nodeschool.io) challenges
-- [ ] Learn to use [Jekyll](http://jekyllrb.com/)
+- [x] Learn to use [Jekyll](http://jekyllrb.com/)
 
 ## Package Managers
 - [x] Master NPM
@@ -33,12 +33,12 @@
 ## Persona
 - [x] Refresh [emeraldion.it](http://www.emeraldion.it)
 - [ ] Write at least three technical articles
-- [ ] Write at least three blog posts
+- [x] Write at least three blog posts (nine, and counting :+1:)
 
 ## Conferences, Meetups, Community
-- [ ] Deliver a talk at a meetup
+- [x] Deliver a talk at a meetup ([Intro to JSX build with browserify and webpack](https://speakerdeck.com/claudiopro/intro-to-jsx-build-with-browserify-and-webpack):smile:)
 
 ## Career
-- [ ] Update LinkedIn profile
+- [x] Update LinkedIn profile
 - [x] Update resume
 - [ ] Find a new job
