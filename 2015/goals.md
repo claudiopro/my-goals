@@ -20,7 +20,7 @@
 - [x] Master NPM
 
 ## Workflow
-- [ ] Master [Gulp](http://gulpjs.com/)
+- [x] Master [Gulp](http://gulpjs.com/)
 - [ ] First steps with [Grunt](http://gruntjs.com/)
 - [x] First steps with [Webpack](https://webpack.github.io/)
 - [ ] Master [Webpack](https://webpack.github.io/)
