@@ -12,7 +12,7 @@
 - [ ] Learn TypeScript
 - [ ] Master Angular 1.x
 - [ ] Learn Angular 2
-- [ ] Master Sass
+- [x] Master Sass
 - [ ] Complete [NodeSchool.io](http://nodeschool.io) challenges
 - [x] Learn to use [Jekyll](http://jekyllrb.com/)
 
@@ -21,9 +21,9 @@
 
 ## Workflow
 - [x] Master [Gulp](http://gulpjs.com/)
-- [ ] First steps with [Grunt](http://gruntjs.com/)
+- [x] First steps with [Grunt](http://gruntjs.com/)
 - [x] First steps with [Webpack](https://webpack.github.io/)
-- [ ] Master [Webpack](https://webpack.github.io/)
+- [x] Master [Webpack](https://webpack.github.io/)
 
 ## Open Source
 - [x] Write my first NPM module ([learn-sass](https://www.npmjs.com/package/learn-sass), yay!)
@@ -41,4 +41,4 @@
 ## Career
 - [x] Update LinkedIn profile
 - [x] Update resume
-- [ ] Find a new job
+- [x] Find a new job
